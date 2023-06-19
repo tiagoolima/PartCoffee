@@ -11,3 +11,7 @@
  
   ### 🖱 Disponível em
   https://partcoffee.netlify.app/
+
+
+  ### 💻 Captura de tela
+  <img src="https://github.com/tiagoothome/PartCoffee/assets/102389691/2c75a381-0d0f-45ae-b139-def48579ecda.png" width="300px" />
