@@ -40,8 +40,8 @@
 <div> <img src="https://github.com/tiagoothome/PartCoffee/assets/102389691/2c75a381-0d0f-45ae-b139-def48579ecda.png" width="300px" /> </div>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas 
-- HTML5
-- CSS3
+- HTML5;
+- CSS3.
 
 ## :globe_with_meridians: Disponível em 
 https://partcoffee.netlify.app/
