@@ -32,8 +32,8 @@
 <p align="justify"> O objetivo do projeto é facilitar o acesso aos cardápios de restaurantes e lanchonetes, proporcionando uma experiência digital prática e moderna. Ao utilizar QR-Codes, o projeto visa reduzir a dependência de materiais impressos, contribuindo para a sustentabilidade e otimizando a interação dos clientes com os estabelecimentos. </p>
 
 ## :video_game: Funcionalidades 
-- Acesso via QR-Code: Os clientes podem acessar o cardápio digital simplesmente escaneando um QR-Code com seus dispositivos móveis.
-- Visualização de Cardápio: O site exibe o cardápio completo de forma organizada e fácil de navegar, permitindo que os clientes visualizem todas as opções de refeições e bebidas disponíveis.
+- Acesso via QR-Code: Os clientes podem acessar o cardápio digital simplesmente escaneando um QR-Code com seus dispositivos móveis;
+- Visualização de Cardápio: O site exibe o cardápio completo de forma organizada e fácil de navegar, permitindo que os clientes visualizem todas as opções de refeições e bebidas disponíveis;
 - Praticidade e Sustentabilidade: Elimina a necessidade de cardápios impressos, promovendo uma experiência mais prática e ecológica.
 
 ## :camera_flash: Captura de Tela 
