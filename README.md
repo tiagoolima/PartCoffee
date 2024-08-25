@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
@@ -21,8 +20,6 @@
 :small_blue_diamond: [Captura de Tela](#camera_flash-captura-de-tela) :white_check_mark:
 
 :small_blue_diamond: [Tecnologias Utilizadas](#hammer_and_wrench-tecnologias-utilizadas) :white_check_mark:
-
-:small_blue_diamond: [Disponível em](#globe_with_meridians-disponível-em) :white_check_mark:
 
 
 ## :writing_hand: Descrição do Projeto 
@@ -42,9 +39,6 @@
 ## :hammer_and_wrench: Tecnologias Utilizadas 
 - HTML5;
 - CSS3.
-
-## :globe_with_meridians: Disponível em 
-https://partcoffee.netlify.app/
 
 ## Licença
 The [MIT License]() (MIT)
